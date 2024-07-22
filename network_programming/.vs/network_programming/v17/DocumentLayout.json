@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A81772-BCBF-49E4-BACA-F1DF3E983D6E}|h_client\\h_client.vcxproj|C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\network_programming\\hello_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12A81772-BCBF-49E4-BACA-F1DF3E983D6E}|h_client\\h_client.vcxproj|solutionrelative:network_programming\\hello_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E959BDEE-2177-4635-B2D0-E4E0168C65AE}|h_server\\h_server.vcxproj|C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\network_programming\\hello_server_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E959BDEE-2177-4635-B2D0-E4E0168C65AE}|h_server\\h_server.vcxproj|solutionrelative:network_programming\\hello_server_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello_client_win.c",
+              "DocumentMoniker": "C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\network_programming\\hello_client_win.c",
+              "RelativeDocumentMoniker": "network_programming\\hello_client_win.c",
+              "ToolTip": "C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\network_programming\\hello_client_win.c",
+              "RelativeToolTip": "network_programming\\hello_client_win.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-22T13:20:16.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello_server_win.c",
+              "DocumentMoniker": "C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\network_programming\\hello_server_win.c",
+              "RelativeDocumentMoniker": "network_programming\\hello_server_win.c",
+              "ToolTip": "C:\\Users\\elddy\\Developer\\Network_Study\\network_programming\\network_programming\\hello_server_win.c",
+              "RelativeToolTip": "network_programming\\hello_server_win.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-22T13:20:13.687Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
